@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Adithya KS  
 
-<!--
-**adithyaks2222-ops/adithyaks2222-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 *Curious Computer Science Student*  
+🚀 Passionate about Web Development & Programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+- 🎓 Computer Science student  
+- 💻 Love coding in **C++** and **Java**  
+- 🌐 Interested in **Web Development**  
+- ⚡ Curious learner who enjoys exploring new technologies  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+- C++  
+- Java  
+- JavaScript  
+
+### 🌐 Web Development  
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 🚀 What I'm Working On  
+
+- 🌱 Improving my Data Structures & Algorithms skills  
+- 🎨 Building creative web projects  
+- ⚙️ Learning full-stack development  
+
+---
+
+
+## 🎯 Goals  
+
+- 🚀 Become a full-stack developer  
+- 🧠 Master problem-solving  
+- 🌍 Build real-world impactful projects  
+
+---
+
+## 🤝 Connect With Me  
+
+- 💬 Open to collaboration  
+- 📫 Reach out anytime  
+
+---
+
+⭐ **"Code. Learn. Build. Repeat."**
