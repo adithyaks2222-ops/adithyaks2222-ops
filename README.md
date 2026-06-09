@@ -1,55 +1,69 @@
-# 👋 Hi, I'm Adithya KS  
+# Adithya KS
 
-💡 *Curious Computer Science Student*  
-🚀 Passionate about Web Development & Programming  
+### Aspiring Software Engineer | Full-Stack Development Enthusiast | Cybersecurity Learner
 
----
+I am an IMCA student with a strong passion for software engineering, problem-solving, and modern technology. I enjoy designing and building applications, exploring new technologies, and continuously expanding my knowledge through hands-on projects and practical experience.
 
-## 🌟 About Me  
-
-- 🎓 Computer Science student  
-- 💻 Love coding in **C++** and **Java**  
-- 🌐 Interested in **Web Development**  
-- ⚡ Curious learner who enjoys exploring new technologies  
+My interests span software development, web technologies, cybersecurity, databases, and emerging technologies. I believe in learning by building and constantly challenging myself with new projects and technical problems.
 
 ---
 
-## 🛠️ Tech Stack  
+## Core Areas of Interest
 
-### 💻 Languages  
-- C++  
-- Java  
-- JavaScript  
-
-### 🌐 Web Development  
-- HTML  
-- CSS  
-- JavaScript  
+- Software Engineering
+- Full-Stack Web Development
+- Cybersecurity
+- Artificial Intelligence
+- Database Systems
+- Open Source Technologies
 
 ---
 
-## 🚀 What I'm Working On  
+## Technical Skills
 
-- 🌱 Improving my Data Structures & Algorithms skills  
-- 🎨 Building creative web projects  
-- ⚙️ Learning full-stack development  
+### Programming Languages
+- C
+- C++
+- C#
+- Java
+- Python
+- JavaScript
+
+### Web Technologies
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+### Databases
+- MySQL
+- MongoDB
+- NoSQL Databases
+
+### Tools & Technologies
+- Git
+- GitHub
+- Visual Studio Code
+- Browser Extension Development
 
 ---
 
+## Current Focus
 
-## 🎯 Goals  
-
-- 🚀 Become a full-stack developer  
-- 🧠 Master problem-solving  
-- 🌍 Build real-world impactful projects  
-
----
-
-## 🤝 Connect With Me  
-
-- 💬 Open to collaboration  
-- 📫 Reach out anytime  
+- Strengthening Data Structures & Algorithms
+- Building Full-Stack Applications
+- Learning Advanced Backend Development
+- Exploring Cybersecurity Concepts
+- Developing Real-World Software Projects
 
 ---
 
-⭐ **"Code. Learn. Build. Repeat."**
+## Professional Objective
+
+To become a skilled Software Engineer capable of designing scalable, secure, and efficient applications while continuously learning and adapting to evolving technologies.
+
+---
+
+## Philosophy
+
+> "Technology rewards curiosity. Every project is an opportunity to learn, improve, and create something meaningful."
